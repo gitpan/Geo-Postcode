@@ -4,7 +4,8 @@ MANIFEST
 README
 lib/Geo/Postcode.pm
 lib/Geo/Postcode/Location.pm
-test.pl
+t/01_test.t
+t/02_pod.t
 postcodedata/makesqlite.pl
 postcodedata/makemysql.pl
 postcodedata/postcodes.csv
