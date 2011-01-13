@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Geo-Postcode
-version:            0.16
+version:            0.17
 abstract:           UK Postcode validation and location
 author:
     - william ross <wross@cpan.org>
